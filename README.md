@@ -7,3 +7,8 @@ npm install
 npm install passport
 
 npm install -D @types/passport
+
+
+npm install passport-http
+
+npm install -D @types/passport-http
